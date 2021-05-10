@@ -1,0 +1,9 @@
+h1. ChordsOut
+
+A Python script that recognizes chords and notes from frames of piano tutorial videos.
+
+*Still work in progress*
+
+h2. Screenshots
+
+!http://telegra.ph/file/c577cc6a79bb64b92715f.png!
